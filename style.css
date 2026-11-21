@@ -90,12 +90,12 @@ nav a{
 .online-dot{
     width: 10px;
     height: 10px;
-    background-color: #39d6a0;
+    background-color: #69ad95;
     border-radius: 50%;
 }
 
 #clock{
     font-family: monospace;
-    color: #e7e9fc;
+    color: #2538df;
     margin-left: 10px;
 }
